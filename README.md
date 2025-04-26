@@ -1,6 +1,5 @@
 <h1 align="center">ANGULAR DEVELOPER </> :computer: </h1>
 
-
 <h2>Frameworks 🖼️ </h2>
 <div style="display: flex; gap: 10px;">
 <img style='height: 30px;' src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;
@@ -27,9 +26,14 @@
 <img style='height: 30px;' src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
 </div>
 
+<h2>Agile Framework 👷 </h2>
+<div style="display: flex; gap: 10px;">
+<img style='height: 30px;' src="https://img.shields.io/badge/Scrum-FF7F00?style=for-the-badge&logo=scrum&logoColor=white" />&nbsp;&nbsp;
+</div>
+
 <h2>Get in touch 🖐️</h2>
 <div align='center'>
-  <a href="https://www.linkedin.com/in/crontreras1" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/danny-fernandez-513624223/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <h2>FORGING CODE 💪</h2>
