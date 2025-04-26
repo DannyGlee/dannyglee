@@ -1,5 +1,10 @@
 <h1 align="center">ANGULAR DEVELOPER </> :computer: </h1>
 
+<h2>Get in touch 🖕</h2>
+<div align='center'>
+  <a href="https://www.linkedin.com/in/crontreras1" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
 <h2>FORGING CODE 💪</h2>
 
 
