@@ -1,5 +1,31 @@
 <h1 align="center">ANGULAR DEVELOPER </> :computer: </h1>
 
+<h2>Data Science & Programming 📊</h2>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img style="height: 30px;" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img style="height: 30px;" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img style="height: 30px;" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img style="height: 30px;" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img style="height: 30px;" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</div>
+
+<h2>Core Concepts 🧠</h2>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img style="height: 30px;" src="https://img.shields.io/badge/Data_Structures-FF6F00?style=for-the-badge" />
+  <img style="height: 30px;" src="https://img.shields.io/badge/Algorithms-00599C?style=for-the-badge" />
+  <img style="height: 30px;" src="https://img.shields.io/badge/Graph_Theory-6A1B9A?style=for-the-badge" />
+  <img style="height: 30px;" src="https://img.shields.io/badge/Relational_Algebra-00897B?style=for-the-badge" />
+  <img style="height: 30px;" src="https://img.shields.io/badge/Abstract_Data_Types-795548?style=for-the-badge" />
+</div>
+
+<h2>Tools & Environment ⚙️</h2>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img style="height: 30px;" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img style="height: 30px;" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img style="height: 30px;" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</div>
+
+
 <h2>Data Sciense student ... 📈 </h2>
 
 <h2>Frameworks 🖼️ </h2>
