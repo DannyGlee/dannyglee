@@ -26,8 +26,6 @@
 </div>
 
 
-<h2>Data Sciense student ... 📈 </h2>
-
 <h2>Frameworks 🖼️ </h2>
 <div style="display: flex; gap: 10px;">
 <img style='height: 30px;' src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;
